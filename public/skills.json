@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Development",
+    "icon": "FaCode",
+    "description": "Building responsive, user-friendly and modern interfaces using React, Tailwind CSS, and JavaScript.",
+    "tags": ["HTML", "CSS", "JavaScript", "React", "Tailwind", "DaisyUI"]
+  },
+  {
+    "id": 2,
+    "title": "Backend Development",
+    "icon": "FaServer",
+    "description": "Developing secure and scalable server-side applications with Node.js, Express, and REST APIs.",
+    "tags": ["Node.js", "Express", "REST API", "JWT", "Authentication"]
+  },
+  {
+    "id": 3,
+    "title": "Database Management",
+    "icon": "FaDatabase",
+    "description": "Designing and managing efficient databases to ensure data integrity and performance.",
+    "tags": ["MongoDB", "Mongoose", "MySQL", "Database Design"]
+  },
+  {
+    "id": 4,
+    "title": "Cloud & DevOps",
+    "icon": "FaCloud",
+    "description": "Deploying, monitoring, and maintaining applications using modern cloud and DevOps tools.",
+    "tags": ["Docker", "CI/CD", "GitHub Actions", "Vercel", "Netlify"]
+  },
+  {
+    "id": 5,
+    "title": "Tools and Technology",
+    "icon": "FaTools",
+    "description": "Using industry-standard tools and technologies to build efficient development workflows.",
+    "tags": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
+  },
+   {
+    "id": 6,
+    "title": "Mobile App Development",
+    "icon": "FaMobileAlt",
+    "description": "Building high-performance, user-friendly mobile applications for Android and cross-platform environments.",
+    "tags": ["React Native", "Expo", "Android", "Cross Platform", "Mobile UI"]
+  }
+]

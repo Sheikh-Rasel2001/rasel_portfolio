@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": 1,
+    "image": "../src/assets/project1.avif",
+    "title": "E-commerce Platform",
+    "description": "A full-featured e-commerce platform with product listing, cart functionality, user authentication, and secure checkout.",
+    "tags": ["React", "Tailwind CSS", "Node.js", "Express", "MongoDB"],
+    "demoLink": "View Demo",
+    "codeLink": "Code"
+  },
+  {
+    "id": 2,
+    "image": "../src/assets/project2.avif",
+    "title": "Task Management App",
+    "description": "A productivity-focused task management application with task creation, status tracking, and deadline management.",
+    "tags": ["React", "Firebase", "Tailwind CSS"],
+    "demoLink": "View Demo",
+    "codeLink": "Code"
+  },
+  {
+    "id": 3,
+    "image": "../src/assets/project3.avif",
+    "title": "Fitness Tracker",
+    "description": "A fitness tracking application that helps users monitor workouts, calories, and daily activity goals.",
+    "tags": ["React", "Chart.js", "API Integration"],
+    "demoLink": "View Demo",
+    "codeLink": "Code"
+  },
+  {
+    "id": 4,
+    "image": "../src/assets/project4.avif",
+    "title": "Portfolio Website",
+    "description": "A modern and responsive personal portfolio website showcasing projects, skills, and experience.",
+    "tags": ["React", "Framer Motion", "Tailwind CSS"],
+    "demoLink": "View Demo",
+    "codeLink": "Code"
+  },
+  {
+    "id": 5,
+    "image": "../src/assets/project5.avif",
+    "title": "Chat App",
+    "description": "A real-time chat application with user authentication and instant messaging functionality.",
+    "tags": ["React", "Socket.io", "Node.js"],
+    "demoLink": "View Demo",
+    "codeLink": "Code"
+  },
+  {
+    "id": 6,
+    "image": "../src/assets/project6.avif",
+    "title": "AI Image Generator",
+    "description": "An AI-powered image generation application that creates images from text prompts using modern AI APIs.",
+    "tags": ["React", "AI API", "OpenAI", "Tailwind CSS"],
+    "demoLink": "View Demo",
+    "codeLink": "Code"
+  }
+]
